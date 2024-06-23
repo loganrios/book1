@@ -1,13 +1,42 @@
+# Site settings
 title: Your Book Title
-author: Your Name
 description: A brief description of your book
-theme: jekyll-theme-minima
+url: "https://loganrios.github.io"
+baseurl: "/book1"
 
-# If you're using a custom domain, uncomment and update the following line:
-# url: "http://yourdomain.com"
+# Author information
+author:
+  name: Logan Rios
 
-# If your site is in a subdirectory, uncomment and update the following line:
-# baseurl: "/your-repo-name"
+# Build settings
+theme: minima
 
-# Additional settings
-markdown: kramdown
+# Collections
+collections:
+  chapters:
+    output: true
+    permalink: /:collection/:name
+  wiki:
+    output: true
+    permalink: /:collection/:name
+  research:
+    output: true
+    permalink: /:collection/:name
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "chapters"
+    values:
+      layout: "chapter"
+  - scope:
+      path: ""
+      type: "wiki"
+    values:
+      layout: "wiki"
+  - scope:
+      path: ""
+      type: "research"
+    values:
+      layout: "research"
