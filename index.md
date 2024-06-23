@@ -1,9 +1,9 @@
 ---
 layout: home
-title: My Book Project
+title: book1
 ---
 
-# Welcome to My Book Project
+# Title TBD
 
 ## Table of Contents
 
