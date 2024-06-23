@@ -5,9 +5,7 @@ url: "https://loganrios.github.io"
 baseurl: "/book1"
 
 # Author information
-author:
-  name: Logan Rios
-  email: lrios@hey.com
+author: Logan Rios
 
 # Build settings
 theme: minima
