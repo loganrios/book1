@@ -27,11 +27,15 @@ defaults:
   - scope:
       path: ""
       type: "chapters"
+    values:
+      layout: "page"
   - scope:
       path: ""
       type: "wiki"
     values:
-      layout: "wiki"
+      layout: "page"
   - scope:
       path: ""
       type: "research"
+    values:
+      layout: "page"
