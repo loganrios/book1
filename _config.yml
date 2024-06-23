@@ -27,8 +27,6 @@ defaults:
   - scope:
       path: ""
       type: "chapters"
-    values:
-      layout: "chapter"
   - scope:
       path: ""
       type: "wiki"
@@ -37,5 +35,3 @@ defaults:
   - scope:
       path: ""
       type: "research"
-    values:
-      layout: "research"
