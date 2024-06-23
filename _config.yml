@@ -1,0 +1,13 @@
+title: Your Book Title
+author: Your Name
+description: A brief description of your book
+theme: jekyll-theme-minima
+
+# If you're using a custom domain, uncomment and update the following line:
+# url: "http://yourdomain.com"
+
+# If your site is in a subdirectory, uncomment and update the following line:
+# baseurl: "/your-repo-name"
+
+# Additional settings
+markdown: kramdown
