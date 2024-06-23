@@ -7,6 +7,7 @@ baseurl: "/book1"
 # Author information
 author:
   name: Logan Rios
+  email: lrios@hey.com
 
 # Build settings
 theme: minima
