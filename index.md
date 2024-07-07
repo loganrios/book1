@@ -1,9 +1,11 @@
 ---
 layout: home
-title: book1
+title: Frauditor
 ---
 
-# Title TBD
+# Frauditor
+
+It takes one to know one.
 
 ## Table of Contents
 
