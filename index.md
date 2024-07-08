@@ -3,10 +3,6 @@ layout: home
 title: Frauditor
 ---
 
-# Frauditor
-
-It takes one to know one.
-
 ## Table of Contents
 
 {% for chapter in site.chapters %}
