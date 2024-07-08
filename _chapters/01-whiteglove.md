@@ -61,7 +61,7 @@ Fifteen minutes after the client meeting began, Edgar Mathews stepped out of the
 
 "Mr. Cunningham! Great to see you again." Max flashed what ideally should've passed for a welcoming grin and offered his right palm. "Sorry, I'm a little sweaty, but I think we've got a great final report for you today."
 
-"I'll pass, but thank you, son." Jasper Cunningham, Supervisor of the Midwestern Piracy and Intellectual Property Theft division at the FBI, gently brushed Max's hand away and adjusted his hefty weight in the undersized office chair. "I won't lie and say that I don't have some... well, great expectations for your report. Might without saying, but some the higher-ups were getting antsy about an external audit lasting as long as this one. But I told em, I said you can't make a good brisket faster just by turning up the heat."
+"I'll pass, but thank you, son." Jasper Cunningham, Supervisor of the Midwestern Piracy and Intellectual Property Theft division at the FBI, gently brushed Max's hand away and adjusted his hefty weight in the undersized office chair. "I won't lie and say that I don't have some... well, great expectations for your report. Might go without saying, but some the higher-ups were getting antsy about an external audit lasting as long as this one. But I told em, I said you can't make a good brisket faster just by turning up the heat."
 
 "And we certainly appreciate your incredible support when it comes to both administrative advocacy and ground-level access." Edgar subtly flashed his cufflinks as he rubbed his chin. "You seem to know exactly what helps these audits go well."
 
@@ -85,7 +85,7 @@ Fifteen minutes after the client meeting began, Edgar Mathews stepped out of the
 
 Edgar looked confused. "Umm..." He looked to left, squinted, and bit his lip. He took out his own copy of the report, just stapled paper, and started scanning each of the pages. "Not that I can see." A brief glint of realization crossed his expression before being suppressed back into a now-feigned puzzlement. "Max, you wouldn't happen to have anything, would you?"
 
-"Pure chance, but I actually do." This was a hard smile to fight. "I think we can all concede that Mrs. Greene has appeared to toe the line for her Equipment Custodian duties for a good, long while. But we did encounter evidence that she might have a good reason to stay in her current position, beyond merely serving her country."
+"Pure chance, but I actually do." This was a hard smile to fight. "I think we can all concede that Mrs. Greene has appeared to toe the line for her Equipment Custodian duties for a good, long while. But we did encounter evidence that she might have some extra reason to stay in her current position, beyond merely serving her country."
 
 A light turned on behind Cunningham's beady eyes as he raised a brow. "You don't say. How unforeseen."
 
