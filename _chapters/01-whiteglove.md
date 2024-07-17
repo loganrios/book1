@@ -91,7 +91,7 @@ A light turned on behind Cunningham's beady eyes as he raised a brow. "You don't
 
 Edgar leaned back in his chair, creating a direct line-of-sight between Max and the client, even as he himself crossed and uncrossed his legs. "Such things often come up during the type of exhaustive audits that the Mathews Group performs, you can understand. Sometimes they prove to be a problem. Sometimes not."
 
-"The truth is that we found evidence that Mrs. Greene had accepted a personal gift of reportable value, made towards one of her competing professional interests, and, worst of all, gifted by one of your own contractors, Campbell-Strauss Electric Supply." Max flung a few of his photographs such that they landed, in disarray, right on the table in front of Cunningham. "The gift was not reported, either in your records or her own, since its receipt in the previous fiscal year."
+"We discovered that Mrs. Greene had accepted a personal gift of reportable value, made towards one of her competing professional interests, and, worst of all, gifted by one of your own contractors, Campbell-Strauss Electric Supply." Max flung a few of his photographs such that they landed, in disarray, right on the table in front of Cunningham. "The gift was not reported, either in your records or her own, since its receipt in the previous fiscal year."
 
 "Heavens." Cunningham vibrated with malicious joy. "Obviously, such behavior cannot be tolerated from a servant of the public. To think that such a thing would happen under my supervision... nothing short of a serious betrayal of trust."
 
@@ -116,3 +116,57 @@ For a moment they stood, then Edgar went over to where the client had sat, scoop
 Edgar looked pensive for a moment longer, then broke with a wry grin. "Atta boy."
 
 <!-- 07 JUL 2024: 1839 -->
+
+---
+
+Ambient mug had finally coalesced in the evening cool and the light plinking of rain against the all-glass front-wall of an ex-warehouse's bottom floor, reverberating out in the cement expanse into a mild, pleasant cacophony outside of the carpet-glued cubicle walls that surrounded Edgar's desk, a rich cherry-dyed mahogany proudly representing one of only three static members of this environment that had ever tasted life.
+
+Max's leg rustled the leaves of one of the other members--a decorative indoor tree--his position shifting awkwardly in the cushioned chair. While he'd never felt particularly comfy in wheel-less office seating, something about the current state of his body couldn't seem to settle such that he could eat the smothered enchilada he'd somehow had a whim to try. 
+
+Edgar sat his opposite on the other side of that ornate desk, leaning his head back at a slight angle, sanitized hands clasped over his stomach and an empty to-go container sitting cradled on a fabric oven pad. "...and, you won't believe this, that _same_ guy is now the pastor for our parish."
+
+"Just insanity." Max laughed and poked at the enchilada once more, not even quite sure what the contents were supposed to be. "Nobody ever told them where he was for those three years?"
+
+"Of course not." Edgar shrugged, and slid off the Rolex watch that left an indent on his wrist. "And who knows, maybe he really did change. It happens."
+
+Max scoffed and took a long sip from the drink that had been resting on the side of the chair's legs, precariously balanced as to not spill on the rug below. "It could. But I can't imagine giving _that_ up to become a pastor, of all things."
+
+Edgar swiveled in his chair, rubbed his temples for a second, then raised an eyebrow at Max with his hand on his chin. "You don't think people can change, Max? That they can't redeem themselves?"
+
+Pausing, Max set down his drink to raise one hand. "I wouldn't say _can't_. Functionally, they don't, though. People are creatures of momentum. It's a part of every media story. Like: famous person gets caught doing X. Everybody makes noise at them for doing X, and if there's enough noise, they always say something along the lines of 'oh I knew it was maybe sorta wrong, but I never had the courage to stop my own behavior, until', you know, 'everybody made all that noise'. There's no, like, self-motivated moment in the middle of their bad behavior. It always takes an external signal. Not a good sign for redemption."
+
+"So what about my new pastor? What was his external signal?"
+
+"Oh, crashing the semi, for sure."
+
+"But, he was by himself."
+
+"Being by yourself doesn't mean you still don't have the superego, by which I mean, the notion of 'other people'. Plus, he would either have to lie about where the semi came from, and why it was full of all those counterfeit lion pelts, or he could just give in, 'take it as a sign', and call it a good run. My guess? He ran out of creative solutions."
+
+"Hmm." Edgar tapped his desk, reached below it, and produced that signature half-empty bottle of Elijah Craig, its caramel glow illuminating the stark-white paper below, along with two crystal glasses. "And, don't take this the wrong way, because you know as well as I do that I'm glad to be out from Cunningham's contract, but, keeping the same analysis... what was the deal with Gloria Greene?"
+
+"What do you mean?" Max took a long, last sip of the slightly-metallic Tex-Mex soda water to cleanse the pallette. He felt the rumblings of a Pavlovian response to that particular bottle, but couldn't identify what.
+
+"What was her continuing evil? What couldn't she have stopped until we brought it up with her boss?" Edgar was speaking slower, in an inflection reminiscient of a high school English teacher.
+
+"I, uhh..." Max folded his arms and leaned back. "Well, it's hard to say. She clearly wasn't very happy under his supervision, and it seems like she expressed herself via petty behavior. Did her boss deserve it? Probably, given what we know now from working with him. But if anything, there's no way that sort of long-term negativity doesn't build up and affect all areas of your life. Which makes today's events a necessary external signal." The back of the chair has a little too much give.
+
+"Oh, I meant the fraud. You know, the thing that you caught?" Edgar's hand sat gripped on the wooden top of the whiskey bottle, his thumb a half-inch away from a proper grip.
+
+"Ah, _that_." Max settled down in his chair, then slapped his hands down on the armrests, feeling the curves of the wood. "Honestly, it probably wasn't even her fault."
+
+Edgar's grip corrected and he twisted the top of the bottle by just a few degrees. Suddenly, the warm light of the lamp above them seemed just a touch more fluorescent and cold. "Go on."
+
+"She had a neighbor, some nice old guy named Gary Forstein, that was a bigshot at Campbell-Strauss before he retired. Gary happened to have a few boxes of gloves from the early days of the company, so when she went around asking for extra gardening supplies for the community plot, he apparently said he was too old to find any better use, and handed them off to her."
+
+Edgar popped the wooden cork. "You mentioned that she knowingly accepted the gift from a contractor. Yet you say he's retired?"
+
+"She thought so. He thought so. But no." Max massaged his own fingers, sore from flipping through the pages at the garden, and crossed his legs. "He's still on the payroll as a Product Consultant, though the old dingbat doesn't know that showing up twice a month to greenlight product specsheets makes him a full-on W-2 employee on Campbell-Strauss's books. They're taking good care of him. Though you can see what that means for _her_."
+
+"I see." Edgar squinted at Max, slowly nodding, up and down. "I see..."
+
+A minute or so passed. Max felt fidgety just looking at the opened Elijah Craig, the spice wafting up through his nose into his brain. "Sorry, are we drinking? Normally I wouldn't presume, but that does smell _really_ nice, and it's been a long day."
+
+Biting his cheek, Edgar finally stopped nodding, picked up the bottle by the base, and delicately poured the liquor into the glasses without a single splashed drop. "...I'm worried about you, Max."
+
+<!-- 17 JUL 2024: 1039 -->
