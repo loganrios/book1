@@ -170,3 +170,125 @@ A minute or so passed. Max felt fidgety just looking at the opened Elijah Craig,
 Biting his cheek, Edgar finally stopped nodding, picked up the bottle by the base, and delicately poured the liquor into the glasses without a single splashed drop. "...I'm worried about you, Max."
 
 <!-- 17 JUL 2024: 1039 -->
+
+The pause was long enough that Max was probably supposed to infer something that he didn't. His hands began to shake. "How do you mean? The client's happy. We got paid for auditing. What's not to celebrate?"
+
+<!-- what does logan-in-the-chair want to write, right now? -->
+
+Edgar sighed, then reached out a glass to Max's minutely-vibrating hand, and took his own glass in his left before sitting back down and swirling it while leaning back. "At 30 years old, Arthur Andersen, who had founded his own accounting firm, had just finished the books for one of his most major clients--maritime freight, nearly as big way back in 1915--when he found out that _mere days_ after the fiscal year ended, one of his client's largest boats had sunk to the bottom of the ocean. And as he sat there, financial report in hand, ready to deliver to the publisher, Arthur had a _choice_." He took one tiny sip and clicked his tongue.
+
+Already, about half of Max's glass had been covertly drained down his throat during the story, and he attempted a shrug that pushed his collarbone up to the mounting frog in his throat. "Material event or not, the year ended, right? He's done due diligence."
+
+Edgar nodded. "So his client said, too. No regulatory guidance back then, either. He stood to take no losses, not even to his reputation... had no reason to rock the boat and threaten a profitable relationship with his long-term client."
+
+"Okay, okay," Max eked a nervous chuckle, "I know where this is going. Isn't Andersen the firm that stamped Enron's shady accounting? And this is the first time we should've known him and his company had no integrity?"
+
+"No." Smiling and shaking his head, Edgar took another baby sip, closing his eyes. Thunder cracked outside, just far enough away that it soon melted into the hum of the portable air conditioner. "Famously, he asked his client if they thought current and potential investors would want to know about such a material event sooner rather than later. They were furious with him, threatened to drop his little accounting company and leave it to wither and die. But, he re-opened the books, logged the material event, and pushed through everyone who fought him along the way."
+
+"...only to roll in his grave 86 years later..." Max grumbled.
+
+"The point I'm trying to make, Max, is that external audit has a higher calling. We don't just serve clients and ourselves. We serve the _people_, even before the other two."
+
+Max's knuckles whitened against the glass, hopefully imperceptibly. "I'm sorry, but Boss... the _people_ don't pay for our services. I'm fine with the higher calling stuff, I am. And I'll try to do better. But can you blame me for trying to serve, y'know, our customers? The firm itself?"
+
+"...I can't." Edgar set down the glass and pressed his hands together, looking about the room before settling back on eye contact with Max. "You're too good at your job."
+
+Max leaned forward and cocked his head, trying to wear the positive reinforcement. "Thank you, sir."
+
+"Don't take it as a compliment." Edgar raised a single finger, a  faint glimmer of contempt in his tone. "You're smart, and worse, you know it. You used that to figure out which parts of the job seem to matter matter, and which don't, then discarded the parts you felt didn't matter."
+
+"Look, I'm just trying to be efficient. Provide value, you know?"
+
+"I know." He drained his own glass, then moved to pour another. "I know."
+
+With a frank huff, Max cracked his knuckles, trying to relieve some of the tension in his grip, but stood up involuntarily. "Am I in trouble? Were you thinking of firing me? Because I can try to do better! I'll keep you in the loop. You can tell me whether or not something 'serves the people' adequately enough. We can fix it, I swear."
+
+"Whoa, whoa." Edgar gestured by flattening his palm and waving it down. "Nothing so crazy. I'm not gonna fire you over this, especially if it's just our first time talking about it. You're a fantastic investigator and you work hard. Plus, God, what would I possibly tell Tiffany? 'Sorry I fired your fiance for trying too hard to make us money'? She'd knock my head off with an iron right there on Hole 03. Lovely woman."
+
+"Oh, thank goodness." Max's eyes darted to the left as he tried to remember some details about who knew what.
+
+"But I also don't think you're right that you can fix it--on your own _or_ with my supervision. Think objectively, and you'll see it's just the circumstance: there's no incentive to do anything other than grit your teeth and toe the line." Edgar flipped his phone out from his jacket pocket, checked an email notification that had just popped up on the front screen, and slipped in back in. "So we're gonna change things up, a little."
+
+Waving a hand, Max finally released the tension in his shoulders. "Hey, as long as you keep letting me do my own thing, here, I'll happily keep a feelings journal and volunteer on community project. This is the best job I've ever had."
+
+"Well, that's the thing..." Edgar grinned. "We're hiring you a partner. Someone to shadow you, learn all the things that you know about what we do. Someone with, well, hopefully a little more of a conscience."
+
+"Er, okay, but I would _really_ advise _not_ doing that." Max grit his teeth and the pace of his breathing increased. "See, not only do I prefer the independence, but so much of the job is running around, and thinking quickly and quietly, and enough of the job is intuitive and working in your own style, so it's hard to teach, and having to explain myself to someone, especially someone lacking context, would really only slow me down, so we should really only proceed with that solution if you're dead-set on us losing probably like 50-70% velocity for our cases, and something like a feelings journal would really be more of the Pareto--"
+
+"She just signed the offer, two minutes ago." Edgar stood up and  pushed in his chair. "Her name's Jerika, and she's starting tomorrow. Her morning will be with me, where we'll get everything sorted, but I want her afternoon to be with you. Probably on the Mauve client. I'll have Kiki get her clearance sorted so you can go on-site if the need arises."
+
+"Boss, I think this is a really bad idea." His forehead was sweating. "We've got a good thing going right, bar some of what you mentioned... and there are so many things here that will suffer for this. We're not ready to take on somebody new. _I'm_ not ready."
+
+A well-loved leather briefcase was hoisted up from below the desk onto its surface, and Edgar wrapped his fingers around the handle. "Max... this is an opportunity. I know it's been fun and chaotic with just the two of us working cases, but it's time for the Mathews Group, as a whole, to mature. This is how we'll get there."
+
+"It's really too late, isn't it? You're not changing your mind?" 
+
+"I could. But I won't. We have to do not just the hard thing, but the right thing." Edgar loosed the raincoat from the rack on the wall, and sauntered over towards the door. 
+
+Max followed. "Well... no hard feelings, right? Still trust me to lock up and get the lights before I go?"
+
+"Of course." Edgar patted Max on the back with a gloved hand. "Tell Tiffany I said hello. I guess I'll just pray that she doesn't think I'm being too hard on you. Maybe she can help you feel better about it, too... love has a funny way of stabilizing in crazy times." His expression eased into a faraway gaze before snapping back. "Have a good night, Max. Get home safe."
+
+"Will do, Boss. You too." 
+
+The closing of the swinging push door rang a multipart metallic echo on the surrounding concrete, never truly decaying into silence even as minutes past and Max stood there, his skull overheating as the rest of his body shivered in the wet chill of the DMV-area night. 
+
+Perhaps an hour passed before Max stopped pacing around the ex-warehouse, the wearing divot in his leather soles observably deeper, and flopped into the mildly-stained secondhand fabric office chair that had been tucked under his aluminum desk a few yards in front of Edgar's office. That mildewy scent that always seemed to hang in the air specifically at his desk had become suspiciously strong.
+
+A locked cabinet drawer, the biggest in its stack at the bottom, screeched open in Max's shaky grip, to reveal a flannel-patterned sleeping bag fraying at the seams, which effortlessly unrolled to the flat position right behind his desk, into a rectangle on the floor where, until covered, a particularly careful observer could note never gathered dust and debris quite  like the rest of Max's desk-area.
+
+He lied there, in the bag. His eyes hurt to close. His phone buzzed and he snatched it up off the floor beside him with the ferocity of a starving rat.
+
+`Tiff: hey you awake? sorry it's been a few months`
+
+Heart skipped a beat.
+
+`Max: yeah, no worries. just got off work`
+
+`Tiff: good day? feels like you enjoy the long ones`
+
+`Max: went ok`
+
+`Max: he's still trying to turn us into management consultants`
+
+`Tiff: sounds about right for him`
+
+`Tiff: can you call me? would prefer to talk`
+
+Still in the Favorites tab.
+
+"...hey."
+
+"_Hey! You sure sound tired!_"
+
+"A little. But probably not out anytime soon. I work better sleep-deprived, anyway. More efficient." Max felt the wry in his voice, as if the tone would make this less weird.
+
+"_Yeah? What happened?_"
+
+"I'm getting a partner, apparently. Someone to follow me around and make sure that I'm not being too evil, and all."
+
+"_...that sounds like it'll be really good for you, actually._"
+
+"Maybe."
+
+Silence hung.
+
+"_Hey, so... I didn't want to tell you this until I was really sure. But I think it's important to say it._"
+
+"It's fine. I'm sorry I wasn't careful with that first job, too... and I know I broke a lot of promises, implicit and explicit, with you. You don't have to say anything. You deserve better than apologizing to someone like me."
+
+"_Oh. Um, thanks, that does mean a lot. But that's not exactly what I meant..._"
+
+"Shoot." Max cursed silently under his breath a few more times.
+
+"_The deal is... well, I'm late. More than late. It's been three months. I guess I was hoping it wouldn't be anything, or like a health issue, since we're, well, you know, but... I made an appointment, and it's... it's what it looks like. Do you... do you get what I'm saying?"
+
+"I--" Max squeezed the edge of the sleeping bag, twisting it around his fingers. "I do. Get what you're saying, that is."
+
+"_...do you have anything you want to say?_"
+
+His hand moved to massage his temples, slowly but deeply, and pinch the bridge between his eyes and nose. "I just... I can't process anything like that, right now. I'm sorry. But I can't say anything useful, because I can't think about this, right now. Sorry. Really. I'll talk to you later."
+
+He could hear little sobs start to crackle from the phone speaker. "_It's okay, I get that it's scary, but if you could just tell me that you're willing to be there and that it'll be al--_"
+
+Max hung up the phone. He rolled onto his back, and stared straight up. Bare metal rods dangled a sparse array of lights and safety sensors, the only structure marring his view of the ceiling's black abyss.
