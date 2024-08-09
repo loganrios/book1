@@ -84,3 +84,99 @@ Edgar snapped his fingers. "Great. Keep up the good work. Hope you have a good f
 Jerika Jensen, 24, and recently rejected from the FBI's internship program, looked worriedly at the closed wooden door of the office, then looked back at the smug, evil expression on Max's face as he stared at the fob in-hand while the hail-on-window-esque tapping of Kiki's rhythm game bounced around in her head. The heels she had picked were not meant for standing all morning, she was now learning. Her grip on the leather straps of her backpack tightened, and she very much tried to exhale calmly.
 
 ---
+
+The trees, just barely sparse as summer wound down, rustled in patterns of green waves that rippled above and across the bisecting road. The tires of the Lexus glided over the fresh, black asphalt, the sunlight filtering through in concentrated spots, making the road a veritable country night sky in broad daylight. 
+
+Jerika stared out the passenger window towards the dual heavens.
+
+He hadn't stopped talking the whole time. Would that she could go back in time and ask a more narrow question than "what is it that we do, here, anyway"; it wasn't the lack of helpful information, it was the lack of gaps.
+
+"And now, of course, you're thinking: that doesn't sound like traditional auditing. You're right! Co-opting that moniker was more of a bid for legitimacy than an actual description, but it's less egregious than you think. Plenty of certifications require what was already called an 'audit', well-outside the definition of whatever CPAs think that means. I'm correct in guessing that you are not a CPA?"
+
+She shook her head, one full shake, but he apparently caught the first tenth-of-a-radian of rotation in peripheral vision, and barreled onwards before she'd even completed the movement. She still wasn't facing him.
+
+"Yep, that's on purpose. Edgar's a CPA, and I failed the test once, which might've got us in the door, but neither of us have done anything like that in the past year. Why? It makes the most sense once you *really* understand what happened to the feds in Telluride two years ago. Not just what the media told you."
+
+Jerika sat back and double-checked her seatbelt, finally glancing over at him. "Wait, what happened in Telluride? Was I supposed to know?"
+
+Max frowned. "It's the *whole reason* companies like us exist right now. You don't remember? It was national news for two whole days."
+
+Her forehead creased as she pressed her thumb to her right temple. "Is that the one where the tiger seal escaped and then ate a couple rafters? What does that have to do with anything?"
+
+"Of course, everyone focuses on the tiger seal, just 'cause it's gruesome." He rolled his eyes. "Four years ago, before they had even acquired the tiger seal, one of the department's employees, Pace Albright, was having trouble showing up to work on time, so he--"
+
+"Speed check reported ahead," spoke the car's speakers in crisp, ominous surround sound.
+
+"Shoot. Shoot shoot shoot." The Lexus pulled over in the half-lane-sized roadside. Max flung off his seatbelt and shoved open the door, a whoosh of damp, warm air blowing back Jerika's curls, the engine settling into an auto-stop.
+
+Eyes widening and blood pumping, she rapidly undid her own seatbelt and peered through the open door. "What's happening? What's wrong?"
+
+"You gotta switch me." 
+
+"Switch you? I've never driven this thing before. I don't know how it works!"
+
+"It's a car!" Max waved at the wheel, then pointed down the road. "See that black dot at the turn of the corner? He's right up ahead. And if we wait long enough here, then he's gonna see that people are trading places, probably to avoid him, and we're gonna get in a lot of trouble. So, please--"
+
+"Look, Edgar gave *you* the keys. Why can't you just drive?" Jerika folded her arms. "You one of those weirdos that's scared of cops for no reason? Just drive normally, we'll be fine."
+
+Max threw up both of his hands. "Aren't you an intern? Can't you just trust me?"
+
+"Nuh-uh. Something smells fishy to me." Jerika squinted her eyes.
+
+"Jeez... fine." Max exhaled and leaned against the open driver-side doorframe. "I got a DUI. One-time thing. Dry now. But recent. I can't get pulled over driving."
+
+"Does Edgar know?"
+
+"He... knows that I bike most places. And there are health benefits to bike commuting, which I've also explained to him."
+
+"So he doesn't know." Jerika sighed. "Look, I'll drive, but for the rest of the trip. And--hey, I see you doing that, no, not a chance--you can make your case at the DMV or whatever. I'm not gonna be an accomplice."
+
+The switch was tense and silent, save for the chorus of squawking birds above and the whistle of the branches. Yet not even a single bug was visible on the car or the road as they moved to their new positions.
+
+Max pulled the passenger door shut, dabbing the sweat around his collar with the back of his hand. As the car purred back into motion, a lightbulb seemed to go off, and both eyebrows briefly bounced, uncaught by the new driver. "I understand that was a real miscall by myself back there. Hoping it doesn't damage our professional relationship."
+
+"Mm." Her eyes were locked straight ahead. She drove a little faster than Max, though the wheel turned slower along its circular path than in his hands.
+
+"That being said, if you feel obligated to inform Edgar that I have a DUI and that you no longer wish to continue working under me, then I could not fault you."
+
+"I'll think about it." She paused, as if her automatic response made her realize that she would need to think about it. "But I'm not here to give up easily."
+
+"Glad to hear it." He was not.
+
+---
+
+`Max: can you call the Moffett poc?`
+
+`Max: we're gonna need access to the old records room from the merger`
+
+`Kiki: i thought you already went through that`
+
+`Kiki: you said it was boring and pointless`
+
+`Max: something came up, thought it might be worth reopening`
+
+`Kiki: cool cool, i'll let her know`
+
+`Kiki: and confirmed. go to the west gate.`
+
+`Max: tyvm`
+
+---
+
+HB Moffet Inc had some growing pains. While the actual process of logistic support for Italian exports had remained much the same in the last 30 years, the competitive landscape had revolutionized *twice* in the past five alone. 
+
+The current CEO, James Barron Moffet, had paid his dues for inheriting the family's century-old business for thirty years before the board finally voted him into office, but the decision had been primarily motivated by fear. The virtual monopoly Moffet held over Italian export logistics was not tyrannical; they'd always offered fair prices, welcomed clients of all degrees of sophistication, and had a nearly-flawless reputation for customer service. This, they thought, was all that the Eastern US manufacturing market needed, until ITALIA! showed up and ruined everything.
+
+ITALIA! (exclamation point *sic*) was nothing like Moffet. Their employees wore jeans and hoodies to work. Their offices were sparse, open spaces littered with Lifetime tables and metal folding chairs, rented from no-name landlords in places as gauche as the second floor of an outdoor mall. Their Founder CEO tweeted *memes*, for crying out loud. So nobody, including direct competitor Moffet, took them seriously, until they raised Series C funding and, one fiscal year later, miraculously shattered the entire industry's revenue cap.
+
+Thus, James Barron Moffet, feeling the watchful gaze of a very terrified board anticipating drastic solutions, acquired ITALIA! without a second thought. And the monopoly was restored.
+
+Except, Moffet's new CEO knew very little about how ITALIA! actually worked, and that the Italian export logistics industry had changed since the days of his great-granduncle HB Moffet. And now, undercurrents spake of ITALIA!'s remnant talent splitting off and re-claiming their glory.
+
+"And new-guy JB's not going to have any of that, which is why it's our job to come in, and show that the ex-ITALIA! folks can't be trusted," Max explained, running his fingers over the dusty leather of the ringed books in this dark, moldy room. A single naked light, attached by a chain, dangled from the split boards in the ceiling. "So if we can find a letter of receipt without each of the two required stamps, we'll be golden. Easy money."
+
+"Does it say that in the contract?" Jerika coughed, the dust filling her lungs every time she stepped and a new cloud billowed in the skinny aisles. "That we're trying to get rid of those guys?"
+
+*AN: TBC next week.*
+
+<!-- 09 Aug 2024: 1300 words -->
