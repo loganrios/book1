@@ -177,6 +177,54 @@ Except, Moffet's new CEO knew very little about how ITALIA! actually worked, and
 
 "Does it say that in the contract?" Jerika coughed, the dust filling her lungs every time she stepped and a new cloud billowed in the skinny aisles. "That we're trying to get rid of those guys?"
 
-*AN: TBC next week.*
-
 <!-- 09 Aug 2024: 1300 words -->
+
+"Not strictly," Max pulled out one of the boxes whose stickered date had worn partially off, "but that's why we do research on these companies as part of our service package." He had smiled when he saw the illegible date marking, and it grew when he didn't see a title page at the front of the first binder.
+
+"You said that we're contracted to determine if a company is... whew, hold on a second--is following its own internal policy." Jerika, nearly out-of-breath, sat down on the few inches available on the metal shelving in front of the cubes. "And it sure sounds like what you're saying is not what they're asking for in the contract, and therefore not what we're being paid to do."
+
+"*Au contrare*. Cough cough." A particular page's particles flew straight up into his nostrils. "The contract is the vehicle by which they pay us for what they *actually* want, just like how the policy is the vehicle by which they punish people they don't like."
+
+"So a contract is not the actual agreement, and the policy is not the actual rules for working."
+
+"Precisely."
+
+"Hmm." Her breathing was louder than the acknowledgment, and she fell to a kneel on the floor. "Seems cynical."
+
+"Then you're not seeing the... wait, let me..." Max flipped through a few more binders, before finding one that looked just a little fresher than all the others--meaning that only one corner wasn't frayed. "A-ha! Like this, see?"
+
+"What?" She squinted at the page. "There's a physical signature on the first line, but not on the second. But both are labeled with the digital signature of the required parties. Clearly someone just forgot."
+
+"No, no. Take a step back, first." Max flipped over several pages, each displaying the two physical and two digital signatures at the bottom of the tables. "Your question should be *why* they ever required two signatures on this form."
+
+"I don't know!" Jerika shrugged. "Bureaucracy. That's just the way it is. Nonsense like this happens in 'the system'."
+
+Max chuckled. "You dear, sweet, naive intern." He browsed back to the page with the missing physical signature. "One of the rules of the business world is that everything, at some point, was a *decision* made by *someone*. And that 'someone' made the actual decision to require two different types of signatures on the same form--possibly even acknowledging the redundancy."
+
+"So? Maybe they just weren't thinking that hard."
+
+"No, *no*." There was some grit in his voice as he held up his index finger. "You can't *assume* that. Never assume that anything was due to laziness or incompetence. That means you'll be forgiving,  maybe even empathetic, and being empathetic is the worst possible trait you can have as an auditor. You have to assume that everyone is *evil*."
+
+"Again, cynical." She massaged her temples, before standing back up and yanking out another dusty box. "So what's the 'evil' reason behind the dual signatures? Do you actually know?"
+
+"Yes, that's why we're here. And you can stop bringing out boxes--I found the one."
+
+"Great." She groaned and lifted the last box back into place. "Glad we've been doing this for two hours, just for this one bit."
+
+"In 2007, when this particular form was introduced, the COO Macy Moffet was worried about their relationship with their office supplies retailer--if the Moffet warehouse didn't order enough pens every month, they would lose their Gold client status, which meant that all the executives in the nice offices on the upper floors would pay double for printer ink. Macy Moffet herself had sat in on a meeting where management was pushing using Blackberries and laptops for executive communication, and was frustrated that everybody was moving to emailing PDFs, which she couldn't figure out at the time, instead of printing and handing her colorful paper. So, when this supplier's contract came up for renewal, she demonstrated to the board that buying less pens would blow up the supply costs to the white-collar office--of course, failing to mention that everybody was gradually using less printer ink. Thus, the board magically felt that physical signatures provided a valuable defense against imagined rumors of digital forgery, and thus required *two* signatures."
+
+Jerika had already started putting the other boxes away as he rambled, huffing and puffing under the heft of each. "Meaning that this $40,000 order was invalidated because some executive didn't like PDFs?"
+
+"Two for two. You're catching on."
+
+"And you're making the broader point that anything, including projections and rules, can be made up by people who happen to be looking out for their own interests. While also not helping me put away the boxes that you had me drag out just to make this point."
+
+"It seemed like good character-building. Y'know, internships and all."
+
+Jerika exhaled, then wiped the sweat off her forehead. "Seems like a pretty bad way. Lots of lying."
+
+Max shrugged and stifled a grin. "It's hard to be in the game. Some people can't put aside enough of their conscience to play. Can't be too attached to deal with it all. But the money's good. And don't you like money? Everybody does."
+
+"Maybe." She brushed the dust off her knees, grabbed the portfolio out of Max's hands, shoved it into the box, and then shoved the box itself away. "You made your point. What's next?"
+
+"A meeting that you're now in the exact right mindset for." Max swung open the creaky door, flicked off the lights, and ushered the exasperated intern into the hallway.
