@@ -228,3 +228,100 @@ Max shrugged and stifled a grin. "It's hard to be in the game. Some people can't
 "Maybe." She brushed the dust off her knees, grabbed the portfolio out of Max's hands, shoved it into the box, and then shoved the box itself away. "You made your point. What's next?"
 
 "A meeting that you're now in the exact right mindset for." Max swung open the creaky door, flicked off the lights, and ushered the exasperated intern into the hallway.
+
+---
+
+It had all happened so fast.
+
+Ears rang with a high-pitched sine wave. Everything else was quiet. Both sets of eyes were fixed, in stupor, at the door just in front and to the side of both of them.
+
+Two inches above Max's fist, where he had so jovially rapped against the wood, was a fresh hole jutting with splinters and chipped paint.
+
+He had just processed how lucky he was to be standing off to the side, when Jerika yanked him down by the collar towards the floor, her eyes wide, one finger shakingly held to her lips in a shush.
+
+"Jesus, Joey!" A boyish voice, a lick of Italian in each vowel, yelped from the other side of the door. "What am I gonna tell the supervisors if they come in tomorrow and there's bullet holes in the side door? And you better *pray* there's not a body on the other end there, I'll tell you what!"
+
+"I heard a knock." This voice was more gruff. "You said nobody knew, and that nobody'd be here on a holiday."
+
+"The building creaks, huh? I told you, new mass timber construction, this whole thing. You don't gotta be so jumpy, not every sound means something." The boyish voice wavered.
+
+"We'll replace the door. If you have what you say you had."
+
+Thanking God and the lucky stars respectively for the carpeting on the hallway floor, Jerika and Max took simultaneous whole steps back up the ramp, and ducked back around the other corner.
+
+The two stared at each other, petrified, until Max gasped a whisper-laugh. "...I forgot about Labor Day."
+
+"*Seriously*? We just almost got shot!" She punched his arm, hard as she could manage, but neither her nor Max seemed to register the hit.
+
+"I was wondering why Ms. Kestelle wasn't in her office. We came down because this is the other place she works. So that answers that." He was now noticing how whispering was harder than regular talking.
+
+"How are you not *freaking out*?!"
+
+"It's fine, it's fine." Max exhaled and smoothed back his hair. "We didn't see anybody coming down here, or up there. Odds are, we can just dip. The two in there seem to be continuing their 'meeting' anyway."
+
+"What are you talking about? We can't just *leave*!"
+
+"Hmm." Max folded his arms and finally relaxed his brow. "No, you're right, we should probably find some janitorial closet and see if they have those high-vis vests. Between that and the suit, you get out of most questions in buildings like these."
+
+Jerika peered around the corner, then whipped back to Max. "No, I mean... there's something shady happening down there *right now*. Isn't this our whole job? To determine if there's internal wrongdoing in an organization?"
+
+"Look," Max frowned. "I don't know what *you* think auditors do, but I'm pretty sure that we were disqualified the moment a firearm was discharged in a hundred-foot radius--much less *at us*. That's what cops do."
+
+"And you," Jerika scoffed, "*you're* going to go tell the cops?"
+
+"Oh, no, not a chance. We're just contractors, it's none of my business." Max shrugged.
+
+"It literally is!"
+
+"The correct response would be for both of us to be traumatized by this one experience, report it to Edgar so he can do... well, whatever sort of disclosure he feels is appropriate, and then both of us resign." Max nodded to himself. "Except I can't resign. Still need the money. Got some debts. But you're an intern, so you're free. Let's go!" He tried to push her back forward towards the exit.
+
+Jerika narrowed her eyes. Her hands were white-knuckled against the plaster walls as she held her place. "...why do you want me to quit so bad?"
+
+"Seriously, now?" Max threw up his hands. "We have to go! Someone just shot at us."
+
+"You don't want me here at all, do you?"
+
+"I emphasize that the meeting in that room *just* down the hall can end *any second now*."
+
+"Well, I'm staying." Jerika planted her feet into the carpet, grateful that she had changed into tennis shoes before getting out of the car earlier. "And if I die on the first day of the job, I hope you can live with it."
+
+"I live with *a lot*. You think I couldn't weasel my way out of this? I guarantee I could."
+
+"Fine. Go." She shoved him away, then turned back to look down the hall.
+
+He tumbled back, then scoffed. "Fine! Have fun dying."
+
+Her presence buzzed in the back of his mind like a mosquito has he marched--quietly--back up the ramp and up the stairs to the main building's lobby. He felt like he could still see her, leaning forward, trying to make out the words of whatever illicit activity was taking place, endangering her own life.
+
+"Absolutely *no* sense of self-preservation." He cursed under his breath, blowing open the double-glass doors from Moffet headquarters and furiously, repeatedly unlocking the Lexus with the fob as he charged forward. "If some random *intern* wants to die telling me how to do *my job* then she can *die* and oh-my-god-what-a-horrible-and-unforeseen-accident and I'm-so-sorry-that-I-took-my-eyes-off-of-her-for-one-second-but-I-don't-know-what-happened-to-her. Like I can't get out of *this*."
+
+The car purred to life, the interior silent save for the musical chimes of the infotainment startup. "No, Edgar, I had no idea there was a *mafia* presence at Moffet... no, there was no hint while I was there with her, I honestly thought she just didn't like the work and stormed off..."
+
+The gravel rumbled softly beneath, and the trees marking the start of the road back flicked by overhead. "All I can tell myself is that it's in the hands of the law, now, and be grateful that we had a little bit of time together... Mr. Jensen, I'm so sorry, but I promise, I will work with the police investigation *tirelessly* to make sure that your daughter..."
+
+In the distance, the black dot of the police car from the speec check glittered. 
+
+Max slowed the car to a stop, braking gently.
+
+"Shoot."
+
+He hit his own head with his palm, twice, then three more times.
+
+"God _fucking_ dammit."
+
+The steering wheel turned in his hands, against his will.
+
+"This is not something *I* should have to do."
+
+The wheels squeaked forward, at the hard angle.
+
+"This is a job for a fucking *good person*, not *me*."
+
+The acceleration pedal nearly flattened itself under his feet.
+
+"God. Dammit."
+
+And Max drove back to HB Moffet headquarters, his mind now completely detached from his body.
+
+---
+
