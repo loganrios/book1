@@ -147,3 +147,45 @@ Motivation
 "So what's the meaning of 'Motivation' being in the right angle corner?"
 
 "Left as an exercise to the reader." Max cleared his throat.
+
+<!-- NEW -->
+
+Premptively, Jerika leaned forward and waved her hand. "Okay, easy answers: 'motivation'. You don't have to explain this one to me. He doesn't have morals, and he wants money, *boom*, motivated. He deserves the money, because he's doing the bad thing other people won't do; *boom*, rationalization. And because he doesn't have morals, he's willing to do the bad sort of things that others won't; *boom*, opportunity."
+
+"Okay, I know you think you're joking, but I'm worried you don't know how you know that you're joking." 
+
+"I figured you were gonna 'gotcha' me on paper trails." 
+
+He sighed. "It's more than that. 'Motivation' is... well, not that superficial. Think about, I dunno, your taxes. If you were a perfectly rational agent, you'd do your taxes as early as possible, right? There's no extra money to be made or lost by doing them later, if you're a 1040-EZ baby like everybody else under 30. Yet, most people do their taxes whole *months* late. Why?"
+
+"Totally beats me." Jerika flipped out her phone, pressed a single folder on her home screen, and popped open that annual red checkmark logo. "See? $300 return, filed January 2nd. And yes, not totally perfect, but I took New Year's off."
+
+"See, a *party*? That's economically irrational."
+
+"Actually to plan my resolutions. They're like a whole deal in my family. We'd print out a bunch of pictures and paste 'em on a posterboard in the living room."
+
+"Even more ceremony around *not* going to the gym after three days."
+
+"Do *you* go to the gym?"
+
+"No. But I don't make posterboards about going to the gym on holiday weekends."
+
+"Would you consider yourself more likely to go to the gym if you did make posterboards about going to the gym on holiday weekends?"
+
+"Which dovetails back to *motivation*." Max pulled at his collar, noticing the growing heat of irritation in the back of his head. "What sort of people actually do go to the gym? And not just in January."
+
+"Hmm." Her foot swung and brushed the wheels of another office chair, which wobbled concerningly. "Oh, yeah. Those high-schoolers in the ratty string-tanks that curl every dumbbell on the rack for a whole hour with every single one of their friends standing around them."
+
+"A-ha! *Social obligation*. The original." He smiled and continued to write illegible marks on the board from that awkward upside-down angle, as if proving a point. "Does your Dad have friends that go to the gym?"
+
+"No--they just watch sports and drink Fanta. It's all they've ever done."
+
+"How about the time of the year when he tries to go to the gym? Do they support him?"
+
+"Well, no, they make fun of him every year."
+
+"See!? See!?" Max shook the marker in her direction, a manic grin spreading across his face. "*Why*, and I mean literally *why*, would your Dad *ever* go to the gym?"
+
+"...because he wants to get fit."
+
+"*Wrong*. Nobody *ever* does *anything* *purely* by reasoning about long-term rewards." He looked her up and down suspiciously. "Well, remains to be seen. But for *everyone else*, absolutely not."
